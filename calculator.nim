@@ -1,0 +1,1 @@
+const name*:string = "calculator" ## module name
